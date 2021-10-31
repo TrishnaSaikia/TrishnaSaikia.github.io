@@ -1,8 +1,7 @@
 ---
 title: "DARE: Deceiving Audio-Visual Speech Recognition model"
 collection: publications
-authors: Saumya Mishra, <b>Anup Kumar Gupta</b>, and Puneet Gupta
-permalink: /publication/2010-10-01-paper-title-number-2
+authors: "[Saumya Mishra](https://www.linkedin.com/in/saumya-mishra03/), <b>Anup Kumar Gupta</b>, and [Puneet Gupta](https://www.iiti.ac.in/people/~puneet/)"
 excerpt: 'This paper proposes a novel attack to breach the state-of-the-art AVSR models by simultaneously deceiving the detection algorithm, with an attack success rate of 100%.'
 date: 2021-11-28
 venue: 'Knowledge-Based Systems'

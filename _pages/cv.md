@@ -9,10 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+<!-- <embed src="../files/Fellowship_CV_Anup_Kumar_Gupta.pdf" type="application/pdf" /> -->
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
+* Ph.D. in Computer Science and Engineering, Indian Institute of Technology Indore
+* M.S.(Research) in Computer Science and Engineering, Indian Institute of Technology Indore
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
