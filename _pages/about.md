@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Anup Kumar Gupta IIT Indore"
+title: "Anup Kumar Gupta - IIT Indore"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,16 +12,24 @@ I am a PMRF PhD research scholar with the department of Computer Science and Eng
 
 Education
 =========
-* **Ph.D.**:  Computer Science and Engineering, [Indian Institute of Technology Indore](http://cse.iiti.ac.in/) [Aug. 2021 onwards]
-* **M.S. (Research)**:  Computer Science and Engineering, [Indian Institute of Technology Indore](http://cse.iiti.ac.in/) [Aug. 2019 - July 2021]
-* **B.Tech**: Computer Science and Engineering, [Dr. A.P.J. Abdul Kalam Technical University](https://aktu.ac.in/) [Aug. 2013 - July 2017]
-
+* **Ph.D.**:  Computer Science and Engineering, [Indian Institute of Technology Indore](http://cse.iiti.ac.in/), [Aug. 2021 onwards]
+* **M.S. (Research)**:  Computer Science and Engineering, [Indian Institute of Technology Indore](http://cse.iiti.ac.in/), GPA: (10/10), [Aug. 2019 - July 2021]
+* **B.Tech**: Computer Science and Engineering, [Dr. A.P.J. Abdul Kalam Technical University](https://aktu.ac.in/), Percentage: 78.42%, [Aug. 2013 - July 2017]
 
 
 Experience
 =========
-* **Workplace Bots Developer**, [Kwench Global Technologies Pvt. Ltd.](https://www.huminos.com/) [October 2017 - April 2018]
-* **Student Coordinator**, [Software Incubator](https://silive.in/), (R&D center of [Ajay Kumar Garg Engineering College, Ghaziabad](https://www.akgec.ac.in/)) [August 2014 - May 2017]
+* **Workplace Bots Developer**, [Kwench Global Technologies Pvt. Ltd.](https://www.huminos.com/), [October 2017 - April 2018]
+* **Software Engineer**, [Novoinvent Software Pvt. Ltd.](https://www.novoinvent.com/), [July 2017 - September 2017]
+* **Student Coordinator**, [Software Incubator](https://silive.in/), (R&D center of [Ajay Kumar Garg Engineering College, Ghaziabad](https://www.akgec.ac.in/)), [August 2014 - May 2017]
+
+Some Academic Achievements
+==========================
+* Recipient of [Prime Minister Research Fellowship (PMRF)](https://may2021.pmrf.in/). 
+* Completed MS (Research) with Rank 1 and perfect CGPA. 
+* Developed Biometric Attendance System that is currently being used by [Ajay Kumar Garg Engineering College, Ghaziabad](https://www.akgec.ac.in/).
+
+
 
 <!-- Getting started
 ======
