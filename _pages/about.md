@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Anup Kumar Gupta - IIT Indore"
+title: "Anup Kumar Gupta -- IIT Indore"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
