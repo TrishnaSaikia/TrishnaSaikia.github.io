@@ -11,7 +11,7 @@ title                    : "Anup Kumar Gupta"
 title_separator          : "-"
 name                     : &name "Anup Kumar Gupta"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://anupkumargupta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anupkumargupta.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Anup Kumar Gupta"
-  avatar           : "Anup Kumar Gupta.png"
-  bio              : "Prime Minister Research Fellowship (PMRF) Recipient PhD scholar at IIT Indore"
+  avatar           : "AnupKumarGupta.png"
+  bio              : "Prime Minister Research Fellowship (PMRF) Recipient | PhD scholar at IIT Indore"
   location         : "Indore"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=yNhpJTAAAAAJ&hl=en"
+  pubmed           : 
+  email            : "msrphd2105101002 [at] iiti [dot] ac [dot] in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "AnupKumarGupta"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-1090-6036"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/6521550/anup-kumar-gupta"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "AnupKumarGupta_"
   vine             :
   weibo            :
   xing             :
@@ -237,13 +237,13 @@ defaults:
       share: true
       comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 # Sass/SCSS
 sass:
