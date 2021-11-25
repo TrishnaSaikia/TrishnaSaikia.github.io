@@ -18,7 +18,7 @@ Education
 * B.Tech in Computer Science and Engineering, Dr. A.P.J. Abdul Kalam Technical University, Lucknow, (Aug. 2013 - Jul. 2017)
 
 
-Education
+Projects
 =========
 * Adversarial Attacks on Medical Image Segmentation Models, (Aug. 2021 - present)
   * Devised a novel attack architecture that selects the best surrogate loss function to perform attacks on medical image segmentation models while adding minimum adversarial perturbations.
