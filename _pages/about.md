@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+{% include base_path %}
 
 I am a PMRF doctoral scholar with the department of Computer Science and Engineering at Indian Institute of Technology (IIT) Indore. Currently pursuing research under supervision of [Dr. Puneet Gupta](https://www.iiti.ac.in/people/~puneet/) on Adversarial Attacks and Defences on Deep Learning models. When I’m not into tech, I like to immerse myself in the magical world of books. To know more about me checkout my [GitHub](https://github.com/AnupKumarGupta) profile. If you think, we have something in common, do ping me!
 
