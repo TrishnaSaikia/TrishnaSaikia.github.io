@@ -1,7 +1,7 @@
 ---
 title: "TRIESTE: Translation based defense for text classifiers"
 collection: publications
-authors: "<b>Anup Kumar Gupta</b>, Vardhan Paliwal, Aryan Rastogi, Puneet Gupta"
+authors: "<b>Anup Kumar Gupta</b>, Vardhan Paliwal, Aryan Rastogi, [Puneet Gupta](https://scholar.google.co.in/citations?hl=en&user=yUB8lNsAAAAJ&view_op=list_works&sortby=pubdate)"
 excerpt: 'This paper put forward an effective transformation-based defense, TRIESTE (TRanslatIon basEd defenSe for Text classifiErs), that uses back-to-back translation for defending against adversarial attacks on Text Classifiers.'
 date: 2022-05-30
 venue: 'Journal of Ambient Intelligence and Humanized Computing'

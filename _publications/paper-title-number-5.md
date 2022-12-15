@@ -1,7 +1,7 @@
 ---
 title: "D-NEXUS: Defending text networks using summarization"
 collection: publications
-authors: "<b>Anup Kumar Gupta</b>, Aryan Rastogi, Vardhan Paliwal, Fyse Nassar, Puneet Gupta"
+authors: "<b>Anup Kumar Gupta</b>, Aryan Rastogi, Vardhan Paliwal, Fyse Nassar, [Puneet Gupta](https://scholar.google.co.in/citations?hl=en&user=yUB8lNsAAAAJ&view_op=list_works&sortby=pubdate)"
 excerpt: 'This paper proposes a novel summarization based defence, D-NEXUS (DefeNding tEXt networks Using Summarization), against adversarial attacks on the sentiment analysis models.'
 date: 2022-06-30
 venue: 'Electronic Commerce Research and Applications'

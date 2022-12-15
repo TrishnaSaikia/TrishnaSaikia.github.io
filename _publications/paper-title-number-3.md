@@ -1,7 +1,7 @@
 ---
 title: "Contextual Emotion Learning Challenge"
 collection: publications
-authors: "Jainendra Shukla, Puneet Gupta, Aniket Bera, Arka Sarkar, Prakhar Goel, Shubhangi Butta, <b>Anup Kumar Gupta</b> and others"
+authors: "Jainendra Shukla, [Puneet Gupta](https://scholar.google.co.in/citations?hl=en&user=yUB8lNsAAAAJ&view_op=list_works&sortby=pubdate), Aniket Bera, Arka Sarkar, Prakhar Goel, Shubhangi Butta, <b>Anup Kumar Gupta</b> and others"
 excerpt: 'This paper proposes Indian Contextual Emotion Recognition (ICER) dataset based on the multi-ethnic Indian context.'
 date: 2022-01-15
 venue: 'IEEE International Conference on Automatic Face and Gesture Recognition (FG 2021)'

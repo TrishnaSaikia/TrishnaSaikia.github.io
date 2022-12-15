@@ -1,7 +1,7 @@
 ---
-title: "RADIANT: Better rPPG estimation using signal embeddings and Transformer"
+title: "ALPINE: Improving Remote Heart Rate Estimation using Contrastive Learning"
 collection: publications
-authors: "<b>Anup Kumar Gupta</b>, Rupesh Kumar, Lokendra Birla, [Puneet Gupta](https://scholar.google.co.in/citations?hl=en&user=yUB8lNsAAAAJ&view_op=list_works&sortby=pubdate)"
+authors: "Lokendra Birla, Sneha Shukla, <b>Anup Kumar Gupta</b>, [Puneet Gupta](https://scholar.google.co.in/citations?hl=en&user=yUB8lNsAAAAJ&view_op=list_works&sortby=pubdate)"
 # excerpt: 'This paper proposes a novel summarization based defence, D-NEXUS (DefeNding tEXt networks Using Summarization), against adversarial attacks on the sentiment analysis models.'
 date: 2023-01-05
 venue: 'Winter Conference on Applications of Computer Vision (WACV)'
