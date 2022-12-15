@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching under PMRF scheme"
 permalink: /teaching/
 author_profile: true
 ---
