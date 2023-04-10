@@ -11,9 +11,9 @@ title                    : "Trishna Saikia"
 title_separator          : "-"
 name                     : &name "Trishna Saikia"
 description              : &description "personal description"
-url                      : https://anupkumargupta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://trishnasaikia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "anupkumargupta.github.io"
+repository               : "trishnasaikia.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anup Kumar Gupta"
-  avatar           : "AnupKumarGupta.png"
+  name             : "Trishna Saikia"
+  avatar           : "trishnasaikia.png"
   bio              : "Prime Minister Research Fellowship (PMRF) Recipient | PhD scholar at IIT Indore"
   location         : "Indore"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=yNhpJTAAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=G6G8ir0AAAAJ"
   pubmed           : 
-  email            : "msrphd2105101002 [at] iiti [dot] ac [dot] in"
+  email            : "phd2201101014 [AT] iiti [dot] ac [dot] in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "AnupKumarGupta"
+  github           : "TrishnaSaikia"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0003-1090-6036"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/6521550/anup-kumar-gupta"
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "AnupKumarGupta_"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
