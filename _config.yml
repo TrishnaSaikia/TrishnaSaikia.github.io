@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Trishna Saikia"
-  avatar           : "trishnasaikia.png"
+  avatar           : "TrishnaSaikia.png"
   bio              : "Prime Minister Research Fellowship (PMRF) Recipient | PhD scholar at IIT Indore"
   location         : "Indore"
   employer         :
@@ -89,7 +89,7 @@ author:
   pubmed           : 
   email            : "phd2201101014 [AT] iiti [dot] ac [dot] in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              :  
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : 
+  linkedin         : "https://www.linkedin.com/in/trishnasaikia/"
+  orcid            : "https://orcid.org/0000-0002-3052-1689"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
