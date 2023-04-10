@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Anup Kumar Gupta -- IIT Indore"
+title: "Trishna Saikia -- IIT Indore"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,13 +9,13 @@ redirect_from:
 ---
 {% include base_path %}
 
-I am a PMRF doctoral scholar with the department of Computer Science and Engineering at Indian Institute of Technology (IIT) Indore. Currently pursuing research under supervision of [Dr. Puneet Gupta](https://www.iiti.ac.in/people/~puneet/) on Adversarial Attacks and Defences on Deep Learning models. When I’m not into tech, I like to immerse myself in the magical world of books. To know more about me checkout my [GitHub](https://github.com/AnupKumarGupta) profile. If you think, we have something in common, do ping me!
+I am a PMRF doctoral scholar with the department of Computer Science and Engineering at Indian Institute of Technology (IIT) Indore. Currently pursuing research under supervision of [Dr. Puneet Gupta](https://www.iiti.ac.in/people/~puneet/) on Remote Photoplethysmography (rPPG) and its applications. I am also familiar with Image Processing, Biometric related area which will help me to formulate more viable research problem. Since my background is Computer Science and Engineering; hence, the programming skills and mathematical analysis of research problem is inculcated in my habit. As a long-term career objective, I would like to improve my research problem solving ability and also, I will try to solve such research problems which is helpful for the society. 
 
 Education
 =========
-* **Ph.D.**:  Computer Science and Engineering, [Indian Institute of Technology Indore](http://cse.iiti.ac.in/), [Aug. 2021 onwards]
-* **M.S. (Research)**:  Computer Science and Engineering, [Indian Institute of Technology Indore](http://cse.iiti.ac.in/), GPA: (10/10), [Aug. 2019 - July 2021]
-* **B.Tech**: Computer Science and Engineering, [Dr. A.P.J. Abdul Kalam Technical University](https://aktu.ac.in/), Percentage: 78.42%, [Aug. 2013 - July 2017]
+* **Ph.D.**:  Computer Science and Engineering, [Indian Institute of Technology Indore](http://cse.iiti.ac.in/), [Aug. 2022 onwards]
+* **M.Tech.**:  Computer Science and Engineering, [National Institute of Technology Jamshedpur](http://cse.iiti.ac.in/), GPA: (9.18/10), [Aug. 2020 - July 2022]
+* **B.Tech**: Computer Science and Engineering, [Gauhati University Institte of Science and Technology](https://aktu.ac.in/), CPI: (9.02/10), [Aug. 2013 - July 2017]
 
 
 Experience
