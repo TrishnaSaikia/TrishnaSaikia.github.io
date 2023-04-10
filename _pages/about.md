@@ -13,9 +13,9 @@ I am a PMRF doctoral scholar with the department of Computer Science and Enginee
 
 Education
 =========
-* **Ph.D.**:  Computer Science and Engineering, [Indian Institute of Technology Indore](http://cse.iiti.ac.in/), [Aug. 2022 onwards]
-* **M.Tech.**:  Computer Science and Engineering, [National Institute of Technology Jamshedpur](http://cse.iiti.ac.in/), GPA: (9.18/10), [Aug. 2020 - July 2022]
-* **B.Tech**: Computer Science and Engineering, [Gauhati University Institte of Science and Technology](https://aktu.ac.in/), CPI: (9.02/10), [Aug. 2013 - July 2017]
+* **Ph.D.**:  Computer Science and Engineering, [Indian Institute of Technology Indore](http://cse.iiti.ac.in/phdstudents.php), [Aug. 2022 onwards]
+* **M.Tech.**:  Computer Science and Engineering, [National Institute of Technology Jamshedpur](http://archive.nitjsr.ac.in/index.php), GPA: (9.18/10), [Aug. 2020 - July 2022]
+* **B.Tech**: Computer Science and Engineering, [Gauhati University Institte of Science and Technology](https://gauhati.ac.in/academic/institutes/gauhati-university-institute-of-science-and-technology), CPI: (9.02/10), [Aug. 2013 - July 2017]
 
 
 Experience
