@@ -1,14 +1,13 @@
 ---
-title: "FATALRead - Fooling visual speech recognition models"
+title: "An automatic lung nodule classification system based on hybrid transfer learning approach"
 collection: publications
-authors: <strong>Anup Kumar Gupta</strong>, [Puneet Gupta](https://scholar.google.co.in/citations?hl=en&user=yUB8lNsAAAAJ&view_op=list_works&sortby=pubdate), and [Esa Rahtu](https://esa.rahtu.fi/)
-excerpt: 'This paper poposes a novel adversarial attack on the state-of-the-art VSR models with a 100% attack success rate. The algorithm was able to circumvent popular transformation defences with an attack success rate of more than 99%.'
-date: 2021-10-01
-venue: 'Applied Intelligence'
-paperurl: 'http://dx.doi.org/10.1007/s10489-021-02846-w'
+authors: <strong>Trishna Saikia</strong>, [Ranjeet Kuma], [Dilip Kumar], and [Koushlendra Kumar Singh](https://scholar.google.com/citations?user=9amXZ1gAAAAJ&hl=en)
+date: 2022-05-05
+venue: 'SN Computer Science'
+paperurl: 'https://doi.org/10.1007/s42979-022-01167-0'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
-<!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
+<!-- [Download paper here](https://link.springer.com/article/10.1007/s42979-022-01167-0) -->
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
