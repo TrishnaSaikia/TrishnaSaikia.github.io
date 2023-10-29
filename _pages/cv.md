@@ -13,28 +13,40 @@ redirect_from:
 
 Education
 =========
-* Ph.D. in Computer Science and Engineering, Indian Institute of Technology Indore, (Aug. 2021 - present)
-* M.S.(Research) in Computer Science and Engineering, Indian Institute of Technology Indore, (Aug. 2019 - Jul. 2021)
-* B.Tech in Computer Science and Engineering, Dr. A.P.J. Abdul Kalam Technical University, Lucknow, (Aug. 2013 - Jul. 2017)
+* Ph.D. in Computer Science and Engineering, Indian Institute of Technology Indore, (Aug. 2022 - present)
+* M.Tech. in Computer Science and Engineering, National Institute of Technology Jamshedpur, (Aug. 2020 - Jul. 2022)
+* B.Tech in Information Technology, Gauhati University Institute of Science and Technology, Guwahati, (Aug. 2015 - Jul. 2019)
 
 
 Projects
 =========
-* Adversarial Attacks on Medical Image Segmentation Models, (Aug. 2021 - present)
-  * Devised a novel attack architecture that selects the best surrogate loss function to perform attacks on medical image segmentation models while adding minimum adversarial perturbations.
-  * The architecture was able to fool the state-of-the-art medical image segmentation models with an attack success rate of more than 99%.
+* Heart rate estimation from facial video of masked subjects using rPPG, (Jan. 2023 - Aug. 2023)
+  * Extensively explored the robustness of rPPG techniques for remote HR estimation near to real-time.
+  * Investigated the utilization of mask region for physiological parameter estimation. 
   
-* Defence against Adversarial Attacks on NLP Models, (Jan. 2021 - Jun. 2021)
-  * Devised two novel transformation based defences that can circumvent state-of-the-art attacks.
-  * The proposed defence overcome the drawbacks of the existing spelling correction based defences.
+* Deepfake detection using TCN and rPPG information, (Aug. 2022 - Dec. 2022)
+  * Explored the utilization of rPPG information for deepfake detection.
+  * Developed a model for stable clip selection from an input video in order to reduce the noise effect on rPPG signals.
+   
+* Lung Nodule Classification System, (Oct. 2021 - Jun. 2022)
+  * Proposed a hybrid algorithm by consolidating the concept of deep learning with hand-crafted features.
+  * The algorithm was able to perform better than existing lung cancer classification models with a testing accuracy of 98.70%.
   
-* Adversarial Attacks on Audio-Visual Speech Recognition Models, (May. 2020 - Nov. 2020)
-  * Devised a novel attack to breach the state-of-the-art AVSR models by simultaneously deceiving the detection algorithm, with an attack success rate of 100%.
+* Leaf Disease Classification, (Jul. 2021 - Oct. 2021)  
+  * Devised a computer-aided leaf disease classification system using the Logistic Regression and Transfer Learning.
+  
+* Vehicle Tracking and Crowdedness Detection Inside the Vehicle, (Jan. 2019 - Jul. 2019)
+  * Deploy a system to track university buses and check the crowdedness inside the bus through an android application in real-time.
+  * Framework: Computer Vision and Machine Learning.
 
-* Adversarial Attacks on Visual Speech Recognition Models, (Dec. 2019 - Apr. 2020)
-  * Devised a novel algorithm to perform an attack on the state-of-the-art VSR models with a 100% attack success rate.
-  * The algorithm was able to circumvent popular defences with an attack success rate of more than 99%.
+* Smart Face Recognizing Locking System, (Sep. 2018)
+  * Developed an intelligent face-recognizing locking system at Utkranti 1.0, organized at Gauhati University Institute of Science and Technology, Guwahati.
+  * Framework:  Opencv and Arduino.
 
+* ChatBot on NorthEast tourism, (Apr. 2018)
+  * Developed a chatbot on NorthEast tourism at HackOverflow, the Data Sscience Hackathon organized at the Indian Institute of Technology Guwahati.
+  * http://t.me/sangrakt_bot
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -44,23 +56,18 @@ Publications
 Work experience
 ===============
 
-* Kwench Global Technologies Pvt. Ltd. (Noida, Uttar Pradesh, Oct. 2017 - Apr. 2018)
-  * Software Engineer
-  * Developed Workplace Bots in a team that is Product Partner of Workplace, an enterprise connectivity platform by Facebook.
-  * Worked on the Reward and Recognition Platform that is trusted by over 500 companies across 63 countries.
-  * Developed rules for the Reward Platform, which helps provide the clients with numerous configurations of the Reward System of their choice with no change in the code.
-* Novoinvent Softwares Pvt. Ltd. (Noida, Uttar Pradesh, Jul. 2017 - Sep. 2017)
-  * Software Engineer 
-  * Worked on a US government insurance project for the state of Maryland, “Maryland Health Connection” which is the state’s official health insurance marketplace for individuals and families to compare and enrol in health insurance.
-* Software Development Centre - Software Incubator. (Ghaziabad, Uttar Pradesh, Aug. 2014 - May 2017)
-  * Student Co-ordinator/ Software Engineer 
-  * Developed a Biometric Attendance System for the faculty and staff of Ajay Kumar Garg Engineering College (AKGEC), Ghaziabad.
-  * Developed and maintained more than 10 portals, websites and platforms related to AKGEC.
-  * Web Team Member, Event Organiser: Tech Trishna’15, the annual national technical festival of AKGEC, which saw a footfall of 1500+ participants.
-  * Developed an online registration and slot booking portal in the Blood Donation Camp, 2016 & 2017.
-* My Own Space Research Consultancy. (Ghaziabad, Uttar Pradesh, Jun. 2016 - Jul. 2016)
-  * Student Intern
-  * Designed and developed a website that provides an easy solution to buyers for accessing reviews for any property and helps them make the correct decision.
-* Sarvodya Ventures. (Ghaziabad, Uttar Pradesh, Jun. 2015)
-  * Student Intern 
-  * Worked on a live portal that connects transporters, truck drivers, customers and other related entities.
+* Guest Faculty under Prime Minister Research Fellowship (PMRF) scheme at Shri Govindram Seksaria Institute of Technology and Science, Indore.
+  * Deep Learning and Reinforcement Learning (Mar. 2023 - Jul. 2023)
+  * Deep Learning (Aug. 2023 - Oct. 2023)
+  
+* Research Intern at Indian Institute of Information Technology, Design and Manufacturing, Jabalpur. (Aug. 2021 - Dec. 2021)
+  * Developed a Computer-aided System for lung cancer classification using lung cancer-patient computed tomography (CT) scan images. 
+
+* Web Development Intern at Indian Oil Corporation Limited Guwahati. (Dec. 2017 - Jan. 2018)
+  * Worked on several small web-based applications using Visual Basic .NET and oracle database.
+  * After completion of the internship, submitted an industrial training Report on ``Website in ASP.NET".
+  
+* Summer Training Program in Python, Mantra Associates, Guwahati. (Dec. 2016 - Jan. 2017)
+  * Underwent four weeks of training in python programming.
+  * Worked on small projects like a web scraper, a Tic Tac Toe game, etc.
+  
