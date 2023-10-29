@@ -18,17 +18,17 @@ Education
 * **B.Tech**: Computer Science and Engineering, [Gauhati University Institte of Science and Technology](https://gauhati.ac.in/academic/institutes/gauhati-university-institute-of-science-and-technology), CPI: (9.02/10), [Aug. 2013 - July 2017]
 
 
-Experience
+Interests
 =========
-* **Workplace Bots Developer**, [Kwench Global Technologies Pvt. Ltd.](https://www.huminos.com/), [October 2017 - April 2018]
-* **Software Engineer**, [Novoinvent Software Pvt. Ltd.](https://www.novoinvent.com/), [July 2017 - September 2017]
-* **Student Coordinator**, [Software Incubator](https://silive.in/), (R&D center of [Ajay Kumar Garg Engineering College, Ghaziabad](https://www.akgec.ac.in/)), [August 2014 - May 2017]
+* **Computer Vision**
+* **AI in Health Care**
+* **Machine Learning**
+* **Deep Learning**
 
 Some Academic Achievements
 ==========================
-* Recipient of [Prime Minister Research Fellowship (PMRF)](https://may2021.pmrf.in/). 
-* Completed MS (Research) with Rank 1 and perfect CGPA. 
-* Developed Biometric Attendance System that is currently being used by [Ajay Kumar Garg Engineering College, Ghaziabad](https://www.akgec.ac.in/).
+* Recipient of [Prime Minister Research Fellowship (PMRF)](https://www.pmrf.in/). 
+* Completed B.Tech with Rank 1. 
 
 
 
